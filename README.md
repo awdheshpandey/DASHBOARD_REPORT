@@ -40,7 +40,7 @@ Tweet Word Count
 Project Structure
 twitter-analytics-dashboard.pbix: Power BI file containing the visuals and filtering logic.
 README.md: Documentation explaining the project, its usage, and requirements.
-SampleDataset.csv (Optional): A sample dataset for testing the visuals (if applicable).
+TWEET Dataset.csv (Optional)
 Key Visual Descriptions
 1. Average Engagement vs. Impressions
 Purpose: Identify tweets with high engagement relative to impressions.
