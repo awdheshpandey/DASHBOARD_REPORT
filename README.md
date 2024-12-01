@@ -85,4 +85,4 @@ Contact
 For queries or contributions, reach out at:
 
 Email: awdheshpandey55@gmail.com
-GitHub: [Your GitHub Profile]
+GitHub: https://github.com/awdheshpandey
